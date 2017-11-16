@@ -9,7 +9,7 @@
 
 `TNUMAExecutor`is a NUMA-aware multithreaded executor for ROOT.
 
-root-evolution thread: [Discussion thread topic for that proposal](https://root-forum.cern.ch/c/root-evolution)
+root-evolution thread: [Discussion thread topic for that proposal](https://root-forum.cern.ch/t/re-0004-tnumaexecutor-discussion-thread/26916)
 
 ## Motivation
 
